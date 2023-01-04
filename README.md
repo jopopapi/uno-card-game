@@ -1,6 +1,6 @@
 # Uno Card Game
 
-This is the repository for the Uno Card Game. Below are the descriptions for each file:
+This is the repository for the Uno Card Game. This project involved creating an interactive Uno Game that can be played with mutiple players using one device. Below are the descriptions for each file:
 
 * `CardIcons`: Folder that contains all the images for each card face
 * `StartFrame.java`: java code used for the start screen of the game
